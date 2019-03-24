@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
     <ShortName>Hackwage</ShortName>
-    <Description>IT Jobs Open Search Engine</Description>
+    <Description>Open Search Engine</Description>
     <Tags>example web</Tags>
-    <Contact>hackwage+opensearch@gmail.com</Contact>
+    <Contact>andilexmchunu@gmail.com</Contact>
     <Image width="16" height="16" type="image/x-icon">https://hackwage.com/favicon/favicon.ico</Image>
     <Url type="text/html"
          template="https://hackwage.com/search/?q={searchTerms}"/>
